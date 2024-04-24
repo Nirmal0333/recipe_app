@@ -1,16 +1,9 @@
-# recipe_application
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![splashscreen](https://github.com/Nirmal0333/recipe_app/assets/106113587/7252cbdf-0e71-4964-be35-7411592ad863)
+![detailscreen](https://github.com/Nirmal0333/recipe_app/assets/106113587/960f201c-aaed-4d89-b40e-b77a0bf4f855)
+![detailscreensave](https://github.com/Nirmal0333/recipe_app/assets/106113587/fe27130c-d427-4a2c-99e3-51e9432e94a6)
+![homescreen](https://github.com/Nirmal0333/recipe_app/assets/106113587/1d12effc-39ca-4b91-9345-48aa23a88301)
+![unitconversionchart](https://github.com/Nirmal0333/recipe_app/assets/106113587/abdbbc7d-f771-42a8-949c-ca8b0ca8d0e3)
+![sharescreen](https://github.com/Nirmal0333/recipe_app/assets/106113587/6cb175d5-1518-4561-93c2-95651bd06899)
+![categoryscreen](https://github.com/Nirmal0333/recipe_app/assets/106113587/3c2b5a83-2123-49b7-a5e0-d837f426e3f1)
+![nutrifactscreen](https://github.com/Nirmal0333/recipe_app/assets/106113587/3ad26a1c-5604-437a-baa5-4fc4dc6142cd)
+![savedscreen](https://github.com/Nirmal0333/recipe_app/assets/106113587/5ec09954-a0d8-433a-ae25-6aa97fdf7956)
